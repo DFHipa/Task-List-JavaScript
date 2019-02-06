@@ -1,4 +1,4 @@
-# Task-List-JavaScript
+# Task-List-JavaScript-Application
 Simple task list UI application that runs in a browser and saves to local storage. Code done in JavaScript.
 
 This application was completed as part of the Modern JavaScript From The Beginning taught by Brad Traversy on Udemy.com.
